@@ -1,7 +1,10 @@
 # Mutable and Immutable Objects in Python
 
+![Python](./components/Immutable.png)
 ![Python](./components/Screenshot%202024-06-10%20at%201.05.33 AM.png)
 ![Python](./components/Screenshot%202024-06-10%20at%201.08.52 AM.png)
+![Python](./components/Immutable%20(1).png)
+
 ![Python](./components/Screenshot%202024-06-10%20at%2012.59.34 AM.png)
 ![Python](./components/Screenshot%202024-06-10%20at%2012.59.44 AM.png)
 
